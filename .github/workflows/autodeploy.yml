@@ -44,7 +44,7 @@ jobs:
       - name: 安装依赖
         if: ${{ steps.cache-npm.outputs.cache-hit != 'true' }}
         run: |
-          pnpm install
+          npm install
 
 
       - name: 生成静态文件
