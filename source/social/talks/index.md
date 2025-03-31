@@ -11,4 +11,4 @@ excerpt: 博客的说说页面，包含Github，Telegram
 {% endbox %}
 
 
-{% timeline api:https://api.github.com/repos/codepzj/blog/issues %}{% endtimeline %}
+{% timeline api:https://api.github.com/repos/Kemeow815/hexo-stellar-mogai/issues %}{% endtimeline %}
