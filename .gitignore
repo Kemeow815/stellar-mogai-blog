@@ -12,3 +12,6 @@ _multiconfig.yml
 pnpm-lock.yaml
 package-lock.json
 source/stats.json
+themes/stellar/.git
+.deploy_git*/
+.idea

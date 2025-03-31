@@ -154,6 +154,8 @@ footer:
       icon: <img src="/assets/footer/cache.svg" alt="cache" />
       url: javaScript:cleanCache();
   sitemap:
+    "即刻短文":
+      - "[即刻短文](/shuoshuo)"
     "博客":
       - "[数据统计](/social/stats/)"
       - "[更新日志](/update/)"
