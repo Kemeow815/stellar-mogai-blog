@@ -183,7 +183,7 @@ vscode 当中 markdown 格式的文件是无法使用代码片段的，所以需
   "Navbar": {
     "prefix": "navbar",
     "body": [
-      "{% navbar active:${1:/wiki/} ${2:[文章](/)} ${3:[项目](/wiki/)} ${4:[留言](#comments)} ${5:[GitHub](https://github.com/codepzj)} %}"
+      "{% navbar active:${1:/wiki/} ${2:[文章](/)} ${3:[项目](/wiki/)} ${4:[留言](#comments)} ${5:[GitHub](https://github.com/Kemeow815)} %}"
     ],
     "description": "Insert a navigation bar"
   },

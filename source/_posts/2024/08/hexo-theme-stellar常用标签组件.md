@@ -508,12 +508,12 @@ autoplay:1/0 # 自动播放/手动播放 # 不设置默认0手动播放<br>
 ### 语法/用法
 
 ```text
-{% navbar active:/wiki/ [文章](/) [项目](/wiki/) [留言](#comments) [GitHub](https://github.com/codepzj) %}
+{% navbar active:/wiki/ [文章](/) [项目](/wiki/) [留言](#comments) [GitHub](https://github.com/Kemeow815) %}
 ```
 
 ### 效果
 
-{% navbar active:/wiki/ [文章](/) [项目](/wiki/) [留言](#comments) [GitHub](https://github.com/codepzj) %}
+{% navbar active:/wiki/ [文章](/) [项目](/wiki/) [留言](#comments) [GitHub](https://github.com/Kemeow815) %}
 
 ## frame 设备框架
 

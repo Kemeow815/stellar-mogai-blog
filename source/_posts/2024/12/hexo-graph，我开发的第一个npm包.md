@@ -24,7 +24,7 @@ repo: codepzj/hexo-graph
 代码仓库：
 
 - [NPMJS](https://www.npmjs.com/package/hexo-graph?activeTab=readme)
-- [GitHub](https://github.com/codepzj/hexo-graph)
+- [GitHub](https://github.com/Kemeow815/hexo-graph)
 
 ## 安装依赖
 

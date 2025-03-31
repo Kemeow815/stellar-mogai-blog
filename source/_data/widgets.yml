@@ -16,7 +16,7 @@ comment:
   content: |
     欢迎在评论区留言哦
   linklist:
-    columns: 1 
+    columns: 1
     items:
       - title: 立即前往
         url: /social/about#comments
@@ -24,7 +24,7 @@ comment:
 social:
   title: 社交
   layout: linklist
-  columns: 1 
+  columns: 1
   items:
     - icon: 🙌
       title: 小伙伴们
@@ -48,9 +48,9 @@ toc:
   collapse: false # true / false / auto
   # 编辑本文按钮
   edit_this_page: # 从开头开始匹配替换
-    '_posts/': https://github.com/codepzj/blog/tree/main/source/_posts/
-    'wiki/go-learn/': https://github.com/codepzj/blog/tree/main/source/wiki/go-learn/
-    'wiki/ggzx/': https://github.com/codepzj/blog/tree/main/source/wiki/ggzx/
+    "_posts/": https://github.com/Kemeow815/blog/tree/main/source/_posts/
+    "wiki/go-learn/": https://github.com/Kemeow815/blog/tree/main/source/wiki/go-learn/
+    "wiki/ggzx/": https://github.com/Kemeow815/blog/tree/main/source/wiki/ggzx/
 
 # rss插件，最近更新的文章
 recent:
@@ -80,7 +80,7 @@ tagcloud:
 # github用户卡片
 ghuser:
   layout: ghuser
-  username: codepzj # your github login username
+  username: Kemeow815 # your github login username
   avatar: true # show avatar or not
   menu: true # show menu or not
 

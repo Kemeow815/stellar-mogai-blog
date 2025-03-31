@@ -131,6 +131,6 @@ git subtree push --prefix <subdirectory> <repository> <branch>
 
 **然后项目部署成功**😃😃😃
 
-{% link https://github.com/codepzj/tailwindcss-responsive-design 项目仓库 icon:https://github.com/favicon.ico %}
+{% link https://github.com/Kemeow815/tailwindcss-responsive-design 项目仓库 icon:https://github.com/favicon.ico %}
 
 {% link https://tailwindcss-responsive-design.vercel.app/ 项目预览地址 icon:https://github.com/favicon.ico %}
